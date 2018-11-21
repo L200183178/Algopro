@@ -9,6 +9,6 @@ print ('''
       2     |   square              | %s
       3     |   rectangle     	     | %s
       4     |   circle              | %s
-      5     |   parallelogram       | %s)
+      5     |   parallelogram       | %s
 
 '''%(f['triangle'], f['square'], f['rectangle'], f['circle'], f['parallelogram']))

@@ -1,3 +1,5 @@
+#Practicum 8 - Act 1 - Eza Ammar
+
 kam = {'N':'L200183178', 'a':'Mohammad Faqih Eza Ammar', 'A':'Jayengan, Solo','G':'57152','L':'Solo','Q':'Jawa Tengah','J':'Indonesia'}
 
 b= ('''

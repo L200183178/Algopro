@@ -1,0 +1,43 @@
+print "<DOCTYPE html>"
+print
+
+print """<html>
+	<head>
+		<title>Activity 2</title>
+	</head>
+	<body>
+		<table border='0'>
+			<tr>
+				<td colspan='4'><p align='center'><b>Data Diri</b></p></td>
+			</tr>
+			<tr>
+				<td rowspan='6'><img src='Capture.JPG' width='200' height='auto'></td>
+			</tr>
+			<tr>
+				<td>Name</td>
+				<td>:</td>
+				<td>M Faqih Eza A</td>
+			</tr>
+			<tr>
+				<td>Address</td>
+				<td>:</td>
+				<td>Kartopuran </td>
+			</tr>
+			<tr>
+				<td>DOB,POB</td>
+				<td>:</td>
+				<td>Solo, 30th May 2000</td>
+			</tr>
+			<tr>
+				<td>Fav Tourist Attraction</td>
+				<td>:</td>
+				<td>Home Sweet Home</td>
+			</tr>
+			<tr>
+				<td>Motto</td>
+				<td>:</td>
+				<td>Everything is permitted as long as you dont get caught</td>
+			</tr>
+			
+	</body>
+</html>"""
